@@ -1,0 +1,1 @@
+Natural Language Processing based on book "Natural Language Processing Understanding, analyzing, and generating text with Python in Action" by Hobson Lane, Cole Howard and Hannes Max Hapke but some code may be changed by me to experiment.
